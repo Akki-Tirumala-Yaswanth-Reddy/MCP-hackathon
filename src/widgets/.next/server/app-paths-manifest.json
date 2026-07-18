@@ -1,1 +1,11 @@
-{}
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/company-health/page": "app/company-health/page.js",
+  "/agent-activity/page": "app/agent-activity/page.js",
+  "/incident-detail/page": "app/incident-detail/page.js",
+  "/list-incidents/page": "app/list-incidents/page.js",
+  "/monitoring/page": "app/monitoring/page.js",
+  "/engineering-health/page": "app/engineering-health/page.js",
+  "/trigger-incident/page": "app/trigger-incident/page.js",
+  "/recommendation/page": "app/recommendation/page.js"
+}
