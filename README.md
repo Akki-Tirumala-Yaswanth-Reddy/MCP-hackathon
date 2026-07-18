@@ -1,5 +1,7 @@
 # AI Workplace Digital Twin
 
+link: https://nitrochat-te-neural-nexus-amrita-university-amritapuri-campus-1.app.nitrocloud.ai/ 
+
 > AI-powered enterprise digital twin that monitors workplace platforms, analyzes incidents using multiple AI agents, and automates enterprise workflows through the Model Context Protocol (MCP).
 
 ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-blue)
